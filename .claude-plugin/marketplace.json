@@ -1,0 +1,14 @@
+{
+  "name": "blender-skills-local",
+  "description": "Local-only Blender skills (fork of patch-gg/cloud-blender-skills)",
+  "owner": {
+    "name": "Local fork"
+  },
+  "plugins": [
+    {
+      "name": "blender-skills-local",
+      "source": "./",
+      "description": "28 Blender skills, local Blender only"
+    }
+  ]
+}

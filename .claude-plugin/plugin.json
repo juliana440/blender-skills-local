@@ -1,0 +1,27 @@
+{
+  "name": "blender-skills-local",
+  "version": "1.0.0-local",
+  "description": "28 Blender skills that run only in the local Blender on this machine (local-only fork of patch-gg/cloud-blender-skills, MIT): modeling, retopo/UV, PBR, texturing, baking, rigging, animation, clothing, hair, environments, toon/NPR, optimization, export, rendering, video, time of day, weather, simulation, QA.",
+  "author": {
+    "name": "Local fork"
+  },
+  "homepage": "https://github.com/juliana440/blender-skills-local",
+  "repository": "https://github.com/juliana440/blender-skills-local",
+  "license": "MIT",
+  "keywords": [
+    "3d",
+    "blender",
+    "bpy",
+    "game-assets",
+    "godot",
+    "hair",
+    "pbr",
+    "rigging",
+    "roblox",
+    "terrain",
+    "texturing",
+    "toon",
+    "unity",
+    "unreal"
+  ]
+}
