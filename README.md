@@ -6,6 +6,14 @@ This is a local-only fork of [patch-gg/cloud-blender-skills](https://github.com/
 
 > **PT-BR:** 28 skills de Blender para o Claude Code que rodam só no Blender do seu computador, sem nuvem e sem créditos. Instale com os dois comandos abaixo.
 
+## Examples
+
+One enamel mug, rendered locally with the skills (details and commands in [examples/](examples)):
+
+![the same mug at sunrise, noon, golden hour, blue hour and night](examples/time-of-day.jpg)
+
+![the same mug as realistic PBR, worn enamel and toon with outline](examples/styles.jpg)
+
 ## Install
 
 You need **Blender 5.2 LTS or newer** (verified on 5.3) and Python 3.9+.
